@@ -1,6 +1,13 @@
+rsschool-cv7
 # Stanislau Dzialendzik
-*i'm from Vitebsk, country Republic Belarus*
-**my age 30**
-## Stasdelendik@rambler.ru
-> ololo
-1. i'm economical policmen
+
+*Junior frontend Developer*
+*****
+## **Contact information**
+### Email: *Stasdelendik@rambler.ru*
+### Nik: *StasDel*
+****
+## **Skills**
+### - Adobe Photoshop 
+******
+![photo](C:\Users\Asus\Desktop\Снимок3.PNG)
