@@ -1,1 +1,1 @@
-# rsschool-cv7
+# RSS
